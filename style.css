@@ -1,0 +1,58 @@
+.navbar {
+    background-color: rgb(105, 102, 102);
+}
+.fa-cart-arrow-down{
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+    padding-right: 20px;
+    float: right;
+}
+table{
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 50px;
+    background: radial-gradient(#fff , #ffd6d6 );
+    width: 90%;    
+}
+{
+    width: 30%;
+    text-align: left;
+    padding:5px;
+    background: rgb(167, 144, 155);
+    font-weight: normal;
+}
+.image{
+    display: flex;
+    justify-content: space-evenly;
+}
+#input{
+   width:30%;
+   margin-left:40px;
+}
+.row{
+    margin-left: 50px;
+}
+.card {
+    box-shadow: 10px 5px 5px rgb(235, 187, 228);
+    margin-top:20px;
+}
+.card-img-top{
+    width: 50%;
+    height: 130px;
+    margin-left: 20px;
+}
+.btn-primary{
+    background-color: rgb(105, 102, 102);
+    color: #ffff;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+    width:100%;
+}
